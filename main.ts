@@ -9,7 +9,7 @@ input.onButtonPressed(Button.A, function () {
     SuperBit.MotorRunDual(
     SuperBit.enMotors.M1,
     70,
-    SuperBit.enMotors.M1,
+    SuperBit.enMotors.M2,
     70
     )
 })
